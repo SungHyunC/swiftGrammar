@@ -52,7 +52,7 @@ let name: String = "yagom"
 print("My name is \(name)")
 ```
 
-###임의의 수를 만드는 random(in:) 
+##임의의 수를 만드는 random(in:) 
 Int.random(in: -100...100)
 UInt.random(in: 1...30)
 Double.random(in: 1.5...4.3)
