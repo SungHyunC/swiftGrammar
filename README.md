@@ -1,7 +1,7 @@
 # swiftGrammar
 swift문법공부
 
-## 변수와 상수
+# 변수와 상수
 변수: 생성 후 데이터 값을 변경 가능
 상수: 생성 후 데이터 값을 변경 불가능
 
@@ -15,7 +15,7 @@ swift문법공부
 Int는 +,- 부호를 포함한 정수
 UInt는 -부호를 포함하지 않는 0을 포함한 양의 정수
 
-###Bool 
+### Bool 
 불리언 타입 참(true) 또는 거짓(false)만 값으로 가집니다.
 ```
 var boolean: Bool = true
@@ -24,7 +24,7 @@ let iLoveYou: Bool = true
 let isTimeUnlimited: Bool = false
 print("시간은 무한합니까?": \(isTimeUnlimited)")
 ```
-# Float과 Double
+### Float과 Double
 Float과 Double은 부동소수점을 사용하는 실수며 부동소수 타입이라고 합니다.
 64비트 : Double
 32비트 : Float
