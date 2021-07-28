@@ -52,21 +52,21 @@ let name: String = "yagom"
 print("My name is \(name)")
 ```
 
-###random()
+### random()
 임의의 수를 만드는 random(in:) 
 Int.random(in: -100...100)
 UInt.random(in: 1...30)
 Double.random(in: 1.5...4.3)
 Float.random(in: -0.5...1.5)
 
-###Character
+### Character
 Character는 말 그대로 "문자"를 의미
 단어,문장처럼 문자의 집합이 아닌 단 하나의 문자를 의미합니다
 
-###String
+### String
 String은 문자의 나열, 즉 문자열입니다.
 
-###특수문자
+### 특수문자
 \n : 줄바꿈 문자
 \\ : 문자열 내에서 백슬래시를 표현하고자 할 때 사용
 \" : 문자열 내에서 큰 따옴표를 표현하고자 할 때 사용
