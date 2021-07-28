@@ -23,7 +23,6 @@ boolean.toggle() // true - false 반전
 let iLoveYou: Bool = true
 let isTimeUnlimited: Bool = false
 print("시간은 무한합니까?": \(isTimeUnlimited)")
-
 ```
 ## Float과 Double
 Float과 Double은 부동소수점을 사용하는 실수며 부동소수 타입이라고 합니다.
@@ -45,14 +44,14 @@ floatValue = 123456.1
 //문자열 보간법을 사용하지 않고 단순히 변수 또는 상수의 값만 보고 싶으면
 // print 함수의 전달인자로 변수 또는 상수를 전달하면 됩니다.
 print(floatValue)
-
 ```
 **문자열 보간법은 변수 또는 상수 등의 값을 문자열 내에 나태고 싶을 때 사용합니다.**
+
 ```
 let name: String = "yagom"
 print("My name is \(name)")
-
 ```
+
 ###임의의 수를 만드는 random(in:) 
 Int.random(in: -100...100)
 UInt.random(in: 1...30)
