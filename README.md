@@ -11,11 +11,11 @@ swift문법공부
 
 # 데이터 타입 기본
 **스위프트의 모든 데이터 타입 이름은 첫 글자가 대문자로 시작하는 대문자 카멜케이스를 사용합니다.**
-## Int와 UInt
+# Int와 UInt
 Int는 +,- 부호를 포함한 정수
 UInt는 -부호를 포함하지 않는 0을 포함한 양의 정수
 
-##Bool 
+#Bool 
 불리언 타입 참(true) 또는 거짓(false)만 값으로 가집니다.
 ```
 var boolean: Bool = true
@@ -24,7 +24,7 @@ let iLoveYou: Bool = true
 let isTimeUnlimited: Bool = false
 print("시간은 무한합니까?": \(isTimeUnlimited)")
 ```
-## Float과 Double
+# Float과 Double
 Float과 Double은 부동소수점을 사용하는 실수며 부동소수 타입이라고 합니다.
 64비트 : Double
 32비트 : Float
@@ -52,19 +52,19 @@ let name: String = "yagom"
 print("My name is \(name)")
 ```
 
-##임의의 수를 만드는 random(in:) 
+#임의의 수를 만드는 random(in:) 
 Int.random(in: -100...100)
 UInt.random(in: 1...30)
 Double.random(in: 1.5...4.3)
 Float.random(in: -0.5...1.5)
 
-##Character
+#Character
 Character는 말 그대로 "문자"를 의미
 단어,문장처럼 문자의 집합이 아닌 단 하나의 문자를 의미합니다
 
-##String
+#String
 String은 문자의 나열, 즉 문자열입니다.
 
-##특수문자
+#특수문자
 
 
