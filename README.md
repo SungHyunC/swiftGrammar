@@ -92,5 +92,28 @@ nill은 사실 특정 타입이 아니라 **'없음'** 을 나타내는 스위�
 
 옵셔널 ?,! 기호 공부 알아내기
 
+# 옵셔널 바인딩
+옵셔널 바인딩이란 옵셔널을 안전하게 처리하는 방법입니다.
 
+if문, while문, guard문에서 사용합니다. 
 
+기본 syntax입니다. 
+```
+//if 문
+if let name: Type = OptionalExpression {
+    Statements
+}
+
+//while문
+while let name: Type = OptionalExpression {
+    Statements
+}
+
+//guard문
+guard let name: Type = OptionalExpression else {
+    Statements
+    //바인딩에 실패할 경우 else블록이 실행된다.
+}
+```
+참고: https://swycha.tistory.com/6
+에서 참고했습니다.
