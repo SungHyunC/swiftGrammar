@@ -1,7 +1,7 @@
 # swiftGrammar
 swift문법공부
 객제지향,함수형,프로토콜 지향 패러다임까지 한번에! SWIFT 스위프트 프로그래밍 3편 책을 이용하여 공부합니다 저자: 야곰
-
+https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 노션으로 공부 
 print("hello world!")
 # 변수와 상수
 변수: 생성 후 데이터 값을 변경 가능
