@@ -5,8 +5,13 @@ swift문법공부
 
 
 # 노션공부
-https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 노션으로 공부 
+https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 
+
+노션으로 공부 
+
 0224 DAY3 https://www.notion.so/DAY3-1e1f6a0c58984be8898fc2e1c7f6571b
+
+day 8 https://www.notion.so/DAY8-d655be534a434a3baef87d0181185cf1
 
 print("hello world!")
 # 변수와 상수
