@@ -13,6 +13,9 @@ https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f
 
 day 8 https://www.notion.so/DAY8-d655be534a434a3baef87d0181185cf1
 
+https://bbiguduk.gitbook.io/swift/language-guide-1/the-basics 
+여기서 추가로 공부 중
+
 print("hello world!")
 # 변수와 상수
 변수: 생성 후 데이터 값을 변경 가능
