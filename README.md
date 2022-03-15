@@ -16,6 +16,8 @@ day 8 https://www.notion.so/DAY8-d655be534a434a3baef87d0181185cf1
 https://bbiguduk.gitbook.io/swift/language-guide-1/the-basics 
 여기서 추가로 공부 중
 
+Chrome 확장프로그램을 Safari Web extension 이식하기 성공!
+
 print("hello world!")
 # 변수와 상수
 변수: 생성 후 데이터 값을 변경 가능
