@@ -1,22 +1,17 @@
 # swiftGrammar
 swift문법공부
+
 객제지향,함수형,프로토콜 지향 패러다임까지 한번에! SWIFT 스위프트 프로그래밍 3편 책을 이용하여 공부합니다 저자: 야곰
+
++ 추가로 여기서 공부 중 
+https://bbiguduk.gitbook.io/swift/ 
 
 
 
 # 노션공부
 https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 
 
-노션으로 공부 
 
-0224 DAY3 https://www.notion.so/DAY3-1e1f6a0c58984be8898fc2e1c7f6571b
-
-day 8 https://www.notion.so/DAY8-d655be534a434a3baef87d0181185cf1
-
-https://bbiguduk.gitbook.io/swift/language-guide-1/the-basics 
-여기서 추가로 공부 중
-
-Chrome 확장프로그램을 Safari Web extension 이식하기 성공!
 
 print("hello world!")
 # 변수와 상수
@@ -133,3 +128,9 @@ guard let name: Type = OptionalExpression else {
 ```
 참고: https://swycha.tistory.com/6
 에서 참고했습니다.
+
+## 타입 별칭 (Type Aliases)
+
+타입 별칭 (Type aliases) 은 이미 존재하는 타입을 다른 이름으로 정의합니다. 타입 별칭은 typealias 키워드를 사용하여 정의할 수 있습니다.
+
+
