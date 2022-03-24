@@ -6,7 +6,7 @@ swift문법공부
 + 추가로 여기서 공부 중 
 https://bbiguduk.gitbook.io/swift/ 
 
-
+클로저 공부완료
 
 # 노션공부
 https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 
