@@ -11,6 +11,9 @@ https://bbiguduk.gitbook.io/swift/
 # 노션공부
 https://www.notion.so/Swift-100-days-90da2c7c586041328e296743d4c1e21f 
 
+# 지라
+지라에서 공부한거 업로드중 .. 차츰 다시 정리예정
+
 
 
 print("hello world!")
